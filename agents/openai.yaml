@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Figure Design"
+  short_description: "Plan and review manuscript figures at print size"
+  default_prompt: "Use $evidence-figure-design to plan, render, and visually review this manuscript figure."

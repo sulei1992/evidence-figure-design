@@ -1,0 +1,7 @@
+# Legends for the public-data rendering trials
+
+**Plant dry weight.** Each open circle denotes one plant. Diamonds show arithmetic means and lines give two-sided, group-specific 95% Student t confidence intervals for the mean (10 observations and 9 degrees of freedom per group). The source describes plant yields as dried weights and leaves the physical unit unspecified. The horizontal or vertical displacement within each category helps distinguish observations from their group summary. Source: [R datasets, PlantGrowth](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/PlantGrowth.html).
+
+**Virginia mortality rates in 1940.** Each number gives annual deaths per 1,000 population in the specified age, sex and residence category. Both panels use all 20 source entries and the same raw rate scale of 0–75. The style variants differ in how they group the column labels. Source: [R datasets, VADeaths](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/VADeaths.html).
+
+**Old Faithful eruptions.** The scatterplot pairs the duration of 272 eruptions with the corresponding time to the next eruption in minutes. The histogram counts these same waits in 5-minute bins, 40–45 through 95–100, closed on the left. The observed range is 43–96 minutes. Repeated measurements at identical coordinates may coincide. Source: [R datasets, faithful](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html).
